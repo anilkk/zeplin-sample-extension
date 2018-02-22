@@ -2,5 +2,8 @@
   "name": "Sample Layer",
   "description": "Welcome to Zeplin extension",
   "version": "0.1.0",
-  "moduleURL": "index.js"
+  "moduleURL": "index.js",
+  "author": {
+    "name": "Anil Kumar"
+  }
 }
